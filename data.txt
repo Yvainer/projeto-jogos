@@ -1,0 +1,90 @@
+{
+        type: 'rpg',
+        image: 'baldur.avif',
+        name: 'Baldur`s gate 3',
+
+    },
+{
+        type: 'rpg',
+        image: 'black myth wukong.jpeg',
+        name: 'black myth wukong',
+
+    },
+    {
+        type: 'luta',
+        image: 'dragon ball sparking zero.webp',
+        name: 'dragon ball sparking zero',
+
+    },
+    {
+        type: 'rpg',
+        image: 'darck souls 3.webp',
+        name: 'darck souls 3', 
+
+    },
+    {
+        type: 'acao',
+        image: 'devil may cry 5.webp',
+        name: 'devil may cry 5',
+
+    },
+    {
+        type: 'rpg',
+        image: 'elden_ring_capa.jpg',
+        name: 'Elden ring',
+
+    },
+    {
+        type: 'corrida',
+        image: 'forza horizon 5.webp',
+        name: 'forza horizon 5',
+
+    },
+    {
+        type: 'rpg',
+        image: 'ghost of tsushima.png',
+        name: 'ghost of tsushima',
+
+    },
+    {
+        type: 'tiro',
+        image: 'halo 4.png',
+        name: 'halo 4', 
+
+    },
+    {
+        type: 'dog',
+        image: 'pastor-alemao.jpg',
+        name: 'Pastor-alemão',
+
+    },
+    {
+        type: 'dog',
+        image: 'pastor-alemao.jpg',
+        name: 'Pastor-alemão', 
+
+    },
+    {
+        type: 'dog',
+        image: 'pastor-alemao.jpg',
+        name: 'Pastor-alemão',
+
+    },
+    {
+        type: 'dog',
+        image: 'pastor-alemao.jpg',
+        name: 'Pastor-alemão', 
+
+    },
+    {
+        type: 'dog',
+        image: 'pastor-alemao.jpg',
+        name: 'Pastor-alemão',
+
+    },
+    {
+        type: 'dog',
+        image: 'pastor-alemao.jpg',
+        name: 'Pastor-alemão',
+
+    },
